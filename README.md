@@ -1,1 +1,1 @@
-# Gmit-Course-Cpp
+# gmit-course-cpp
