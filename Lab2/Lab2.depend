@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1606402447 source:c:\users\user\documents\lab-programflow\gmit-course-cpp\lab2\main.cpp
+1607258604 source:c:\users\user\documents\lab-programflow\gmit-course-cpp\lab2\main.cpp
 	<iostream>
 	"functions.h"
 
-1606403110 c:\users\user\documents\lab-programflow\gmit-course-cpp\lab2\functions.h
+1607268771 c:\users\user\documents\lab-programflow\gmit-course-cpp\lab2\functions.h
+	<cstdlib>
 
