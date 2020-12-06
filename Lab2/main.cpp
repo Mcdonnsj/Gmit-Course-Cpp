@@ -13,8 +13,8 @@
 
     Numberrangecheck();//Q3
 
-    //Question4
-     cout<< "\n********************Question#4*****************************\n";
+    //Q4
+    cout<< "\n********************Question#4*****************************\n";
     cout<< "\nWould you like to go back to College to better yourself?"<<endl;
     cout<< "Please answer the following question by entering  Y for Yes or N for NO and press enter"<<endl;
     char answer;
@@ -39,7 +39,7 @@
 
     TempHumidity ();//Q7
 
-//Q8**********************************************************************
+    //Q8
     cout<< "\n********************Question#8*****************************\n";
     cout<<" Question 8 loop function 0 to 120 in 1 meter steps\n"<<endl;
     int counter=0;
