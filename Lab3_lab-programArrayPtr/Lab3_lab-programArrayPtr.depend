@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610105131 source:c:\users\user\documents\lab-programflow\gmit-course-cpp\lab3_lab-programarrayptr\main.cpp
+	<iostream>
+	<string>
+	"functions.h"
+
+1610108194 c:\users\user\documents\lab-programflow\gmit-course-cpp\lab3_lab-programarrayptr\functions.h
+
